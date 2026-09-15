@@ -15,6 +15,9 @@ Hamburg (Germany), 6-10 September 2027
 Eurostrings 2027  
 Birmingham (UK), August 31 - September 3, 2027
 
+Nordita Program on Quantum Gravity in Closed Universes 
+Nordita, Stockholm (Sweden), 23 August - September 3 2027
+
 Bridging the Gap between Black Holes, Holography and the Swampland  
 MITP, Mainz (Germany), 16 August - 03 September 2027
 
