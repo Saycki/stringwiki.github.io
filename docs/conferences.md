@@ -60,7 +60,7 @@ Peking University, Beijing (China), 11-14 May 2027
 [Thermal quantum fields, holography and black holes](https://www.ggi.infn.it/showevent.pl?id=565)  
 GGI, Florence (Italy), 5 April - 7 May 2027
 
-CERN Winter School on Supergravity, Strings and Gauge Theory 2027
+CERN Winter School on Supergravity, Strings and Gauge Theory 2027    
 CERN, Geneva (Switzerland), 8 February - 12 February 2027
 
 [Iberian Strings 2027](https://sites.google.com/view/iberianstrings2027/home?authuser=3)   
